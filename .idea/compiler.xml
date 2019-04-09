@@ -7,15 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
+        <module name="MobileAutomation2019" />
         <module name="MobileAutomationMoe" />
         <module name="UiCatalog" />
         <module name="YAHOO" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Generic" target="1.5" />
-      <module name="UiCatalog" target="1.5" />
-      <module name="YAHOO" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
