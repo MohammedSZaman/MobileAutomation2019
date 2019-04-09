@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MobileAutomationMoe.iml" filepath="$PROJECT_DIR$/.idea/MobileAutomationMoe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UiCatalog/UiCatalog.iml" filepath="$PROJECT_DIR$/UiCatalog/UiCatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YAHOO/YAHOO.iml" filepath="$PROJECT_DIR$/YAHOO/YAHOO.iml" />
     </modules>
   </component>
 </project>
